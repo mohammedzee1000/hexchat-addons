@@ -22,6 +22,8 @@ slaps = [
     'finds the closest large object and gives {} a slap with it',
     'likes slapping people and randomly picks {} to slap',
     'dusts off a kitchen towel and slaps it at {}'
+    'throws a paticularly large whale at {}'
+    'draws {} with ascii art'
 ]
 
 
