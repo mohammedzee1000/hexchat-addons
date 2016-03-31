@@ -7,7 +7,7 @@ import hexchat
  
 #folks = ['ccaf_', 'mzee1000', 'preeti', 'lalatenduM', 'budhram', 'ccaf', 'tuxdna', 'bamacharan', 'adisakala']
 #folks = ['ccaf_', 'mzee1000', 'preeti', 'lalatenduM', 'budhram', 'ccaf', 'tuxdna', 'bamacharan', 'pradeepto']
-folks = ['ccaf_', 'mzee1000', 'preeti', 'lalatenduM', 'budhram', 'ccaf', 'tuxdna', 'bamacharan', 'adisakala', 'mitesh', 'samuzzel']
+folks = ['ccaf_', 'mzee1000', 'preeti', 'lalatenduM', 'budhram', 'ccaf', 'tuxdna', 'bamachrn', 'adisakala', 'mitesh', 'samuzzel']
  
 def broadcast(msg):
     for person in folks:
